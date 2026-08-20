@@ -3,16 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Currículo - Seu Nome</title>
+  <title>Currículo - Maria Nicole</title>
 </head>
 <body>
-  <h1>Seu Nome Completo</h1>
-  <p>Idade: 00 anos</p>
-  <p>Estado civil: Solteiro(a)</p>
-  <p>Rua: Rua Exemplo, Nº 123</p>
+  <h1>Maria Nicole Da Silva Souza</h1>
+  <p>Idade: 15 anos</p>
+  <p>Estado civil: Solteira</p>
+  <p>Rua: Rua 1,123</p>
 
-  <p>Email: seuemail@exemplo.com</p>
-  <p>Telefone: (85) 99999-9999</p>
+  <p>Email: nicole.souzasm@gmail.com</p>
+  <p>Telefone: (85) 9501-2375</p>
   <p>Cidade: Fortaleza - CE</p>
 
   <hr>
@@ -22,24 +22,24 @@
 
   <h2>Formação acadêmica</h2>
   <ul>
-    <li>Graduação em Direito — Instituição X — Ano de conclusão ou em andamento</li>
+    <li>Graduação em Direito — ufce — 2028</li>
   </ul>
 
   <h2>Cursos e treinamentos</h2>
   <ul>
-    <li>Direito Penal e Processual Penal — Instituição X — Carga horária</li>
-    <li>Criminologia — Instituição Y — Carga horária</li>
-    <li>Tribunal do Júri — Instituição Z — Carga horária</li>
-    <li>Teoria do Crime e Teoria da Pena — Instituição W — Carga horária</li>
-    <li>Prática Forense Criminal — Instituição A — Carga horária</li>
+    <li>Direito Penal e Processual Penal — ufce— Carga horária</li>
+    <li>informática — Paulo petrola — 300Hs</li>
+    <li>introdução a informática— — 70Hs</li>
+    <li>Teoria do Crime e Teoria da Pena — ufce — 200Hs</li>
+    <li>Prática Forense Criminal — ufce— 200Hs</li>
   </ul>
 
   <h2>Experiências</h2>
   <ul>
-    <li>Estágio jurídico — Escritório ou órgão público — Período</li>
-    <li>Atendimento e organização de documentos jurídicos — Período</li>
-    <li>Pesquisa de jurisprudência e elaboração de peças simples — Período</li>
-    <li>Apoio em rotinas ligadas ao Direito Penal e Processual Penal — Período</li>
+    <li>Estágio jurídico — Escritório público — 2030</li>
+    <li>Atendimento e organização de documentos jurídicos — 2032</li>
+    <li>Pesquisa de jurisprudência e elaboração de peças simples — 2034</li>
+    <li>Apoio em rotinas ligadas ao Direito Penal e Processual Penal — 2036</li>
   </ul>
 
   <h2>Outros</h2>
@@ -50,4 +50,4 @@
     <li>Disponibilidade para estágio ou vaga inicial na área criminal</li>
   </ul>
 </body>
-</html># web2
+</html>
