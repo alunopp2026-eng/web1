@@ -23,6 +23,7 @@
   <h2>Formação acadêmica</h2>
   <ul>
     <li>Graduação em Direito — ufce — 2028</li>
+    <li>Ensimo fundamental - rptb - 2022
   </ul>
 
   <h2>Cursos e treinamentos</h2>
