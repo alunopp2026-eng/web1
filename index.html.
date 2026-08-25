@@ -3,17 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Currículo - Seu Nome</title>
+    <title>Currículo - Maria Nicole Da Silva Souza</title>
 </head>
 <body>
 
     <header>
-        <h1>Seu Nome Completo</h1>
+        <h1>Maria Nicole da Silva Souza</h1>
 
         <p>
-            Recife - PE |
-            (81) 99999-9999 |
-            seuemail@email.com
+            Fortaleza - CE Rua 5,261|
+            (85) 9207-8764 |
+            m.nicolesouza@gmail.com
+            15 anos,solteira
         </p>
 
         <p>
@@ -34,110 +35,74 @@
             <h2>Objetivo</h2>
 
             <p>
-                Busco uma oportunidade para desenvolver minhas habilidades,
-                adquirir experiência profissional e contribuir com a equipe.
+                Atuar na área de Direito Criminal, com foco em Direito Penal,Processo Penal
+                e apoio jurídico.
+                
+            </p>
+        </section>
+
+    
             </p>
         </section>
 
         <section>
-            <h2>Resumo profissional</h2>
-
-            <p>
-                Estudante interessado em tecnologia, programação e
-                desenvolvimento de projetos. Tenho facilidade para aprender,
-                organização e disposição para trabalhar em equipe.
-            </p>
-        </section>
-
-        <section>
-            <h2>Formação acadêmica</h2>
+            <h2>Formação</h2>
 
             <article>
+                <h3>Ensino fundamental</h3>
+
+                <p>
+                 Reitor Pedro Teixeira Barroso  - 2022
+                </p>
+
                 <h3>Ensino Médio</h3>
 
                 <p>
-                    Nome da escola — Recife, PE
+                 Paulo Petrola - 2026
                 </p>
 
-                <p>
-                    Período: 2024 - previsão de conclusão em 2026
                 </p>
+                  Criminologia 
+               
             </article>
         </section>
 
         <section>
-            <h2>Experiência profissional</h2>
+            <h2>Experiências</h2>
 
             <article>
-                <h3>Nome do cargo</h3>
+                <h3></h3>
 
-                <p>
-                    Nome da empresa — Recife, PE
-                </p>
-
-                <p>
-                    Período: janeiro de 2025 até dezembro de 2025
-                </p>
 
                 <ul>
-                    <li>Descrição da principal atividade realizada.</li>
-                    <li>Atendimento ao público e organização de documentos.</li>
+                    <li>Atendimento e organização de documentos jurídicos.</li>
+                    <li>Apoio em rotinas ligadas ao Direito penal e Processual Penal.</li>
                     <li>Utilização de ferramentas digitais.</li>
                 </ul>
-            </article>
 
-            <article>
-                <h3>Projeto pessoal</h3>
 
-                <p>
-                    Desenvolvimento de uma página de currículo usando HTML.
-                </p>
-
-                <ul>
-                    <li>Criação da estrutura semântica da página.</li>
-                    <li>Organização das informações profissionais.</li>
-                    <li>Publicação do projeto com GitHub Pages.</li>
-                </ul>
-            </article>
+            </ul>
         </section>
 
-        <section>
-            <h2>Conhecimentos</h2>
+            </ul>
+        </section>
+
+        </section>
+            <h2>Cursos e Treinamentos</h2>
 
             <ul>
-                <li>HTML básico</li>
-                <li>Lógica de programação</li>
-                <li>Pacote Office</li>
-                <li>Internet e ferramentas digitais</li>
-                <li>Organização de documentos</li>
+                <li>Curso de Informática Básica — ITEP, 2025</li>
+                <li>Curso de Informática — Paulo Petrola, 2026</li>
             </ul>
         </section>
 
         <section>
-            <h2>outros</h2>
-
-            <ul>
-                <li>Português: nativo</li>
-                <li>Inglês: básico</li>
-            </ul>
-        </section>
-
-        <section>
-            <h2>Cursos</h2>
-
-            <ul>
-                <li>Curso de Informática Básica — Nome da instituição, 2025</li>
-                <li>Curso de HTML — Nome da plataforma, 2026</li>
-            </ul>
-        </section>
-
-        <section>
-            <h2>Informações adicionais</h2>
+            <h2>Outros</h2>
 
             <ul>
                 <li>Disponibilidade para aprender novas tecnologias.</li>
                 <li>Facilidade para trabalhar em equipe.</li>
-                <li>Disponibilidade para estágio.</li>
+                <li>Disponibilidade para estágio ou vaga inicial na área criminal.</li>
             </ul>
         </section>
     </main>
